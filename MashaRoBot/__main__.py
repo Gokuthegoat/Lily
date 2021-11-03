@@ -84,14 +84,14 @@ buttons = [
             text="➕️ ADD Lelouch TO YOUR GROUP ➕️", url="t.me/LelouchXRobot?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="😊 Off Topic", url="https://t.me/animesecretchats"),
+        InlineKeyboardButton(text="😊 Powered By", url="https://t.me/DeZilleius"),
         InlineKeyboardButton(text="😊 COMMANDS", callback_data="help_back"),
     ],
     [
         InlineKeyboardButton(
-            text="😊 Black X", url="https://t.me/Blackxofficial"),
+            text="😊 Updates", url="https://t.me/Lelouch_update_channel"),
         InlineKeyboardButton(
-            text="😊 Channel", url="https://t.me/asuna_updates"
+            text="😊 Support Chat", url="https://t.me/lelouchsupportchat"
         ),
     ],
 ]
