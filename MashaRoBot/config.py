@@ -24,7 +24,7 @@ class Config(object):
         -1001507505841
     )  # Prints any new group the bot is added to, prints just the name and ID.
     EVENT_LOGS = (
-        -1001779277836
+        -1001581934484
     )  # Prints information like gbans, sudo promotes, AI enabled disable states that may help in debugging and shit
 
     # RECOMMENDED
