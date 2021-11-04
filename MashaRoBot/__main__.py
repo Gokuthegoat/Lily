@@ -75,7 +75,7 @@ def get_readable_time(seconds: int) -> str:
 
 PM_START_TEXT = """
 Heya! [😊](https://telegra.ph/file/94bed6195cecfeeb7d6bf.jpg), My name is Lelouch.
-I'm here to help you manage your groups! Hit *😊Commands* button below to find out more about how to use me to my full potential. 
+I'm here to help you manage your groups! Hit *Commands* button below to find out more about how to use me to my full potential. 
 """
 
 buttons = [
@@ -84,7 +84,7 @@ buttons = [
             text="➕️ ADD Lelouch TO YOUR GROUP ➕️", url="t.me/LelouchXRobot?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="😊 Powered By", url="https://t.me/DeZilleius"),
+        InlineKeyboardButton(text="Powered By", url="https://t.me/DeZilleius"),
         InlineKeyboardButton(text="😊 COMMANDS", callback_data="help_back"),
     ],
     [
