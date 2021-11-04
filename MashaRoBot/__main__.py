@@ -85,13 +85,13 @@ buttons = [
     ],
     [
         InlineKeyboardButton(text="Powered By", url="https://t.me/DeZilleius"),
-        InlineKeyboardButton(text="😊 COMMANDS", callback_data="help_back"),
+        InlineKeyboardButton(text="COMMANDS", callback_data="help_back"),
     ],
     [
         InlineKeyboardButton(
-            text="😊 Updates", url="https://t.me/Lelouch_update_channel"),
+            text="Updates", url="https://t.me/Lelouch_update_channel"),
         InlineKeyboardButton(
-            text="😊 Support Chat", url="https://t.me/lelouchsupportchat"
+            text="Support Chat", url="https://t.me/lelouchsupportchat"
         ),
     ],
 ]
